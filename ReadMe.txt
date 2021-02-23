@@ -1,1 +1,1 @@
-KangKyung file is deferent
+Text file is deferent
